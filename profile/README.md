@@ -1,1 +1,2 @@
-[Yuchan Han, @rxlama](/rxlama7)
+## Yuchan Han, @rxlama
+https://github.com/rxlama7
